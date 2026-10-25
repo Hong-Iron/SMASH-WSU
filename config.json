@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "[W5] 보건의료과학관": {
+      "style": "brick",
+      "wall": "#a8636c",
+      "glass": "#3b4650",
+      "frame": "#ece8e6"
+    },
+    "[W4] 철도물류관": {
+      "style": "ribbon",
+      "wall": "#e4e1df",
+      "glass": "#4a5560",
+      "frame": "#cc96a0"
+    },
+    "[W7] 우송관": {
+      "style": "stone",
+      "wall": "#eae9e6",
+      "glass": "#2f6a6e",
+      "frame": "#d2d2cf"
+    },
+    "[W18] 우송예술회관": {
+      "style": "brick",
+      "wall": "#9c4f38",
+      "glass": "#2f3d44",
+      "frame": "#86402f"
+    },
+    "[W10] 사회복지융합관": {
+      "style": "brick",
+      "wall": "#a2654e",
+      "glass": "#3d4448",
+      "frame": "#d8c0b0"
+    },
+    "[W19] 엔디컷 빌딩": {
+      "style": "ribbon",
+      "wall": "#d6d6d2",
+      "glass": "#3b4246",
+      "frame": "#9c9e9e"
+    },
+    "[W3] 유학생기숙사": {
+      "style": "dorm",
+      "wall": "#e6e6e2",
+      "glass": "#3f6e6e",
+      "frame": "#d0d3d0"
+    },
+    "[W1] 우송도서관": {
+      "style": "stone",
+      "wall": "#cfcfcb",
+      "glass": "#3f6f6a",
+      "frame": "#b7b9b6"
+    },
+    "[W2] 국제교육센터 / 학군단": {
+      "style": "concrete",
+      "wall": "#eaeae7",
+      "glass": "#3e4a52",
+      "frame": "#c8c8c4"
+    },
+    "[W13] 우송타워": {
+      "style": "ribbon",
+      "wall": "#c8cacb",
+      "glass": "#4a5560",
+      "frame": "#9ea3a6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
